@@ -2,7 +2,7 @@
 
 **`Estudante da tecnologia.`**
 
-Me chamo João Lucas N. Almeida,  sou natural do Maranhão e Sou um entusiasta em aprender cada vez mais sobre programação e estou sempre buscando desafios e aprender para aprimorar minhas habilidades. Atualmente, estou focado em projetos voltados para desenvolvimento web e automação, além de criar scripts para jogos.
+Me chamo João Lucas N. Almeida,  sou natural do Piauí/Maranhão e Sou um entusiasta em aprender cada vez mais sobre programação e estou sempre buscando desafios e aprender para aprimorar minhas habilidades. Atualmente, estou focado em projetos voltados para desenvolvimento web e automação, além de criar scripts para jogos.
 
 <p align="left">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jlucasflamengo32@gmail.com">
